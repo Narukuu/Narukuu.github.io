@@ -1,17 +1,5 @@
 
-/*文章透明*/
-
-.layout_post>#post {
-    background: rgba(255, 255, 255, .7);
-}
-
-/* 鼠标图标 */
-
-body {
-    cursor: url(http://r5uejvh8y.hn-bkt.clouddn.com/11.png), auto;
-}
-
-#web_bg{
+#web_bg {
       background: url(http://r5uejvh8y.hn-bkt.clouddn.com/21.jpg);
       background-repeat: no-repeat;
       background-size: cover;
